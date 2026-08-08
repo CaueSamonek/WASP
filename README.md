@@ -1,8 +1,6 @@
 # WASP
 
-*W*hatsApp *A*utomation *S*ample *P*roject
-
-WASP is an example project for a modular WhatsApp bot built with Node.js. It provides a command-based system for extending bot functionality, with support for stickers, copypasta storage, web scraping, and utility commands.
+WASP (**W**hatsApp **A**utomation **S**ample **P**roject) is an example project for a modular WhatsApp bot built with Node.js. It provides a command-based system for extending bot functionality, with support for stickers, copypasta storage, web scraping, and utility commands.
 
 ## Table of Contents
 
